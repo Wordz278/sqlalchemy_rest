@@ -1,4 +1,3 @@
 __pycache__
 gitignore/postgresql
 *.egg-info
-docker-compose.yaml
